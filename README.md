@@ -5,7 +5,8 @@ A website using WordPress and Elementor for discovering, collecting, buying, and
 https://kryppto.netlify.app/
 
 # Desktop Interface 
-![image](https://github.com/user-attachments/assets/349e74ba-3f6b-40d4-87d0-f59922f0d003)
+![image](https://github.com/user-attachments/assets/16bfe1c7-3b8f-4747-8424-e4cf6b033564)
+
 
 # Tablet Interface 
 ![image](https://github.com/user-attachments/assets/8fbda54e-bbe3-453a-8954-03077f0435e0)
